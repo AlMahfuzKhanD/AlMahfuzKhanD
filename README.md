@@ -22,7 +22,7 @@ Hi, I'm Al mahfuz, a passionate self-taught full stack web developer from Bangla
  </div>
  <br>
  <div>
-  <img align="center" width="98%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz380&layout=compact&theme=material-palenight" alt="mahfuz380" />
+  <img align="center" width="98%" height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz380&layout=compact&theme=material-palenight" alt="mahfuz380" />
 </div.
 
 
