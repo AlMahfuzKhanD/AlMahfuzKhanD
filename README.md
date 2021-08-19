@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Al mahfuz, a passionate self-taught full stack web developer from Bangladesh.
+ I'm Al mahfuz, a passionate self-taught full stack web developer from Bangladesh.
 - 🔭 I work as a Softwere Engineer at MBM Group. My Role is to develop ERP using Laravel , Vue Js & MySql
 - 🌱 I,m a programming lover, When i get some free time I always try to learn New technology, Some times I solve problem in various Online Judge.
 - 🌱 I'm currently learning Vue Js
