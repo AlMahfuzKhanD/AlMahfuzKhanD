@@ -35,8 +35,8 @@
 ### My GitHub Stats
 
 <div>
-<img align="center" width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz380&layout=compact&theme=material-palenight" alt="mahfuz380" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=mahfuz380&show_icons=true&include_all_commits=true&locale=en&layout=compact&theme=material-palenight" alt="mahfuz380" />
+<img align="center" width="49%"  src="http://github-readme-streak-stats.herokuapp.com?user=mahfuz380&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mahfuz380" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=mahfuz380&theme=gotham&show_icons=true&count_private=true" alt="mahfuz380" />
  </div>
 
  
