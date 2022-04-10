@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://almahfuz.com/">Mahfuz!</a>  👋
 
 <a href="https://www.linkedin.com/in/mahfuz380/">
-  <img align="left" alt="Al Mahfuz | Linked In" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Al Mahfuz | Linked In" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://twitter.com/mahfuz380">
   <img align="left" alt="Al Mahfuz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
