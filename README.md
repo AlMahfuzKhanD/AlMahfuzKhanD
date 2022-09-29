@@ -14,7 +14,7 @@
 - 🔭 I work as a Softwere Engineer at MBM Group. My Role is to develop ERP using Laravel , Vue Js & MySql
 - 🌱 I,m a programming lover, When i get some free time I always try to learn New technology, Some times I solve problem in various Online Judge.
 - 🌱 I'm currently learning Vue Js
-- 💬 Ask me about anything [here](https://github.com/mahfuz380/mahfuz380/issues)
+- 💬 Ask me about anything [here](https://github.com/AlMahfuzKhanD/AlMahfuzKhanD/issues)
 
 **Languages and Tools:**  
 
