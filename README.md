@@ -6,7 +6,6 @@
 <a href="https://twitter.com/mahfuz380">
   <img align="left" alt="Al Mahfuz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
 <br />
 <br />
  I'm Al mahfuz, a passionate self-taught full stack web developer from Bangladesh.
