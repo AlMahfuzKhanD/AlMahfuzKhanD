@@ -20,7 +20,9 @@
 <br/>
 - 🌱 I'm currently learning React Js
 <br/>
-- 💬 Ask me about anything [here](https://github.com/AlMahfuzKhanD/AlMahfuzKhanD/issues)
+- 💬 Ask me about anything <a href="https://github.com/AlMahfuzKhanD/AlMahfuzKhanD/issues">Here!</a> 
+<br/>
+- 💬 Take a look to my portfolio to know more.. <a href="https://almahfuz.com/">almahfuz.com</a> 
 
 ***Languages and Tools:*** 
 
