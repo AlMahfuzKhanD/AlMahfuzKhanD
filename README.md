@@ -10,7 +10,11 @@
 <br/>
  I'm Al mahfuz, a passionate self-taught full stack web developer from Bangladesh.
  <br/>
-- 🔭 I work as a Softwere Engineer at MBM Group. My Role is to develop ERP using Laravel , React/Vue Js & MySql
+ - 🔭 Currently I am working as a full time freelance developer at Upwork(2023-Current) in Laravel , React/Vue Js & MySql Stack.
+<br/>
+- 🔭 I worked as an ERP dveloper and TEAM LEAD of implimentation team at MBM Group (2021-2023). I have developed MERCHANDISING, COMMERCIAL and STORE Module using Laravel , Vue Js & MySql and implimented the softwore to the end user by completing USER ACCEPTENCE TEST and BETA TEST.
+<br/>
+- 🔭 I worked as a LARAVEL dveloper at Buy & Bazaar(2020-2021). I developed ECOMMERCE APPLICATION using Laravel , JQuery,Ajax & MySql.
 <br/>
 - 🌱 I,m a programming lover, When i get some free time I always try to learn New technology, Some times I solve problem in various Online Judge.
 <br/>
