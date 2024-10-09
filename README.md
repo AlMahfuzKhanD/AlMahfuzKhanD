@@ -9,9 +9,13 @@
 <br/>
 <br/>
  I'm Al mahfuz, a passionate self-taught full stack web developer from Bangladesh.
+ <br/>
 - 🔭 I work as a Softwere Engineer at MBM Group. My Role is to develop ERP using Laravel , React/Vue Js & MySql
+<br/>
 - 🌱 I,m a programming lover, When i get some free time I always try to learn New technology, Some times I solve problem in various Online Judge.
+<br/>
 - 🌱 I'm currently learning React Js
+<br/>
 - 💬 Ask me about anything [here](https://github.com/AlMahfuzKhanD/AlMahfuzKhanD/issues)
 
 ***Languages and Tools:*** 
