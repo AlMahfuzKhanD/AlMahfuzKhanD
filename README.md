@@ -47,9 +47,11 @@
 
  
 ### My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlMahfuzKhanD)](https://git.io/streak-stats)
 
 <div>
-<!-- <img align="center" width="49%"  src="http://github-readme-streak-stats.herokuapp.com?user=AlMahfuzKhanD&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="AlMahfuzKhanD" /> -->
+<img align="center" width="49%"  src="http://github-readme-streak-stats.herokuapp.com?user=AlMahfuzKhanD&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="AlMahfuzKhanD" />
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlMahfuzKhanD"/></a>
 <img align="center" height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlMahfuzKhanD&layout=compact&langs_count=8&theme=algolia"/>
 <img align="center" width="49%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlMahfuzKhanD&include_all_commits=true&theme=gotham&show_icons=true&count_private=true" alt="AlMahfuzKhanD's Github Stats" />
 <!-- 	<img align="center" width="49%"  src="http://github-readme-streak-stats.herokuapp.com?user=AlMahfuzKhanD&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="AlMahfuzKhanD" /> -->
